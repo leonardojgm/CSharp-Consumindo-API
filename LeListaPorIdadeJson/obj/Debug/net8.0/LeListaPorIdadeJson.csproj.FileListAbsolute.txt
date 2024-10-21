@@ -1,0 +1,14 @@
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\bin\Debug\net8.0\LeListaPorIdadeJson.exe
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\bin\Debug\net8.0\LeListaPorIdadeJson.deps.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\bin\Debug\net8.0\LeListaPorIdadeJson.runtimeconfig.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\bin\Debug\net8.0\LeListaPorIdadeJson.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\bin\Debug\net8.0\LeListaPorIdadeJson.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\obj\Debug\net8.0\LeListaPorIdadeJson.GeneratedMSBuildEditorConfig.editorconfig
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\obj\Debug\net8.0\LeListaPorIdadeJson.AssemblyInfoInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\obj\Debug\net8.0\LeListaPorIdadeJson.AssemblyInfo.cs
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\obj\Debug\net8.0\LeListaPorIdadeJson.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\obj\Debug\net8.0\LeListaPorIdadeJson.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\obj\Debug\net8.0\refint\LeListaPorIdadeJson.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\obj\Debug\net8.0\LeListaPorIdadeJson.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\obj\Debug\net8.0\LeListaPorIdadeJson.genruntimeconfig.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaPorIdadeJson\obj\Debug\net8.0\ref\LeListaPorIdadeJson.dll

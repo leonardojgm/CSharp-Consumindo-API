@@ -1,0 +1,14 @@
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\bin\Debug\net8.0\GravaListaJson.exe
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\bin\Debug\net8.0\GravaListaJson.deps.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\bin\Debug\net8.0\GravaListaJson.runtimeconfig.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\bin\Debug\net8.0\GravaListaJson.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\bin\Debug\net8.0\GravaListaJson.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\obj\Debug\net8.0\GravaListaJson.GeneratedMSBuildEditorConfig.editorconfig
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\obj\Debug\net8.0\GravaListaJson.AssemblyInfoInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\obj\Debug\net8.0\GravaListaJson.AssemblyInfo.cs
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\obj\Debug\net8.0\GravaListaJson.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\obj\Debug\net8.0\GravaListaJson.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\obj\Debug\net8.0\refint\GravaListaJson.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\obj\Debug\net8.0\GravaListaJson.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\obj\Debug\net8.0\GravaListaJson.genruntimeconfig.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GravaListaJson\obj\Debug\net8.0\ref\GravaListaJson.dll

@@ -1,0 +1,14 @@
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\bin\Debug\net8.0\Livros.exe
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\bin\Debug\net8.0\Livros.deps.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\bin\Debug\net8.0\Livros.runtimeconfig.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\bin\Debug\net8.0\Livros.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\bin\Debug\net8.0\Livros.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\obj\Debug\net8.0\Livros.GeneratedMSBuildEditorConfig.editorconfig
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\obj\Debug\net8.0\Livros.AssemblyInfoInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\obj\Debug\net8.0\Livros.AssemblyInfo.cs
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\obj\Debug\net8.0\Livros.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\obj\Debug\net8.0\Livros.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\obj\Debug\net8.0\refint\Livros.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\obj\Debug\net8.0\Livros.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\obj\Debug\net8.0\Livros.genruntimeconfig.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\livros\obj\Debug\net8.0\ref\Livros.dll

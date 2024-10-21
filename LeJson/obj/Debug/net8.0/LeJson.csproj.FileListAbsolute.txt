@@ -1,0 +1,14 @@
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\bin\Debug\net8.0\LeJson.exe
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\bin\Debug\net8.0\LeJson.deps.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\bin\Debug\net8.0\LeJson.runtimeconfig.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\bin\Debug\net8.0\LeJson.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\bin\Debug\net8.0\LeJson.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\obj\Debug\net8.0\LeJson.GeneratedMSBuildEditorConfig.editorconfig
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\obj\Debug\net8.0\LeJson.AssemblyInfoInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\obj\Debug\net8.0\LeJson.AssemblyInfo.cs
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\obj\Debug\net8.0\LeJson.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\obj\Debug\net8.0\LeJson.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\obj\Debug\net8.0\refint\LeJson.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\obj\Debug\net8.0\LeJson.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\obj\Debug\net8.0\LeJson.genruntimeconfig.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeJson\obj\Debug\net8.0\ref\LeJson.dll

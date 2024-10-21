@@ -1,0 +1,14 @@
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.exe
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.deps.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.runtimeconfig.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.AssemblyInfoInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.AssemblyInfo.cs
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net8.0\refint\ScreenSound-04.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.genruntimeconfig.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net8.0\ref\ScreenSound-04.dll

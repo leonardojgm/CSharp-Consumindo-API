@@ -1,0 +1,14 @@
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\bin\Debug\net8.0\GameOfThrone.exe
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\bin\Debug\net8.0\GameOfThrone.deps.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\bin\Debug\net8.0\GameOfThrone.runtimeconfig.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\bin\Debug\net8.0\GameOfThrone.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\bin\Debug\net8.0\GameOfThrone.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\obj\Debug\net8.0\GameOfThrone.GeneratedMSBuildEditorConfig.editorconfig
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\obj\Debug\net8.0\GameOfThrone.AssemblyInfoInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\obj\Debug\net8.0\GameOfThrone.AssemblyInfo.cs
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\obj\Debug\net8.0\GameOfThrone.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\obj\Debug\net8.0\GameOfThrone.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\obj\Debug\net8.0\refint\GameOfThrone.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\obj\Debug\net8.0\GameOfThrone.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\obj\Debug\net8.0\GameOfThrone.genruntimeconfig.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\GameOfThrone\obj\Debug\net8.0\ref\GameOfThrone.dll

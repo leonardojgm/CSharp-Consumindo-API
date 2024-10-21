@@ -1,0 +1,14 @@
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\bin\Debug\net8.0\LeListaJson.exe
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\bin\Debug\net8.0\LeListaJson.deps.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\bin\Debug\net8.0\LeListaJson.runtimeconfig.json
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\bin\Debug\net8.0\LeListaJson.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\bin\Debug\net8.0\LeListaJson.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\obj\Debug\net8.0\LeListaJson.GeneratedMSBuildEditorConfig.editorconfig
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\obj\Debug\net8.0\LeListaJson.AssemblyInfoInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\obj\Debug\net8.0\LeListaJson.AssemblyInfo.cs
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\obj\Debug\net8.0\LeListaJson.csproj.CoreCompileInputs.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\obj\Debug\net8.0\LeListaJson.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\obj\Debug\net8.0\refint\LeListaJson.dll
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\obj\Debug\net8.0\LeListaJson.pdb
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\obj\Debug\net8.0\LeListaJson.genruntimeconfig.cache
+E:\Textos\Estudos\Cursos\Alura\C# consumindo API, gravando arquivos e utilizando o LINQ\LeListaJson\obj\Debug\net8.0\ref\LeListaJson.dll
